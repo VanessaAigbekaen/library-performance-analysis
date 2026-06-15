@@ -24,7 +24,7 @@ NumPy
 Matplotlib
 CSV Files
 
-How the Project Works
+## How the Project Works
 
 Open and read the CSV file containing library book data.
 Skip the header row.
