@@ -35,8 +35,8 @@ Perform calculations and analysis on the data.
 Save the analysis results into a report file.
 Generate a bar chart showing borrow counts per book.
 
-## Sample Output
-## LIBRARY BOOKS REPORT
+Sample Output
+LIBRARY BOOKS REPORT
 =====================
 Total Number of Books: 10
 Average Rating: 4.23
