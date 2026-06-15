@@ -38,11 +38,11 @@ Generate a bar chart showing borrow counts per book.
 ## Sample Output
 # LIBRARY BOOKS REPORT
 =====================
-Total Number of Books: 10
-Average Rating: 4.23
-Highest Rated Book: Baking Masterclass (4.8)
-Median Pages: 295.0
-Most Borrowed Book: Crime Scene (70)
+- Total Number of Books: 10
+- Average Rating: 4.23
+- Highest Rated Book: Baking Masterclass (4.8)
+- Median Pages: 295.0
+- Most Borrowed Book: Crime Scene (70)
 
 ## Books Per Genre:
 - Technology: 2
