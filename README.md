@@ -50,7 +50,8 @@ Most Borrowed Book: Crime Scene (70)
 - Science Fiction: 2
 - Cooking: 2
 - History: 2
-What I Learned
+- 
+## What I Learned
 Through this project, I improved my understanding of:
 
 File handling using with open()
